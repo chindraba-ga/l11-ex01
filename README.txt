@@ -1,6 +1,6 @@
 l11-ex01
 * Status: Assigned
-* CodePen: <https://codepen.io/chindraba-ga/pen/>
+* CodeSandbox: <https://codesandbox.io/s/lesson-11-partner-exercise-rover-hxix7>
 * Live page: <https://www.chindraba.work/fewd/l11-ex01.html>
 
 Contents
@@ -16,19 +16,13 @@ Description
 Lesson 11: Partner Exercise: Rover
 
 It's time to review what weve learned so far and combine all of our new skills by
-    designing a responsive, interactive site called Rover. Your goal is to add CSS and
-    JavaScript so that the site matches the provided screenshots and has the
-    functionality requested in the JavaScript file.
+designing a responsive, interactive site called Rover. Your goal is to add CSS
+and JavaScript so that the site matches the provided screenshots and hasthe
+functionality requested in the JavaScript file.
 
-The starter code is:
-
-- HTML
-
-    STARTER CODE provided in separate file.
-
-- CSS
-
-    STARTER CSS provided in separate files.
+The starter code is provided as a complete set of files in CodeSandbox. The files
+are duplicated in this repo, and the fork will be updated with progress from the
+local repository.
 
 
 Copyright and License
