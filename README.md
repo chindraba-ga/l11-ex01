@@ -2,7 +2,7 @@
 
 -  Status: Assigned
 -  CodeSandbox: <https://codesandbox.io/s/lesson-11-partner-exercise-rover-hxix7>
--  Live page: <https://www.chindraba.work/fewd/l11-ex01.html>
+-  Live page: <https://fewd.chindraba.work/lessons/l11-ex01/index.html>
 
 ## Contents
 
